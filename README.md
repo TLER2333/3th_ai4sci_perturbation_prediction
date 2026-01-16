@@ -1,0 +1,2 @@
+# 3th_ai4sci_perturbation_prediction
+2025年第三届大湾区杯AI for Science 科技竞赛，单细胞扰动预测选题
